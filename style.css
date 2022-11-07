@@ -62,21 +62,26 @@
 }
 
 .color-1 {
-
+background-color: plum;
 }
 
 .color-2 {
-
+background-color: blueviolet
 }
 
 .color-3 {
-
+background-color: blue;
 }
 
 .color-4 {
-
+background-color: red;
 }
 
 .color-5 {
-
+background-color: white;
 }
+
+body{
+  background-color: pink;
+}
+
